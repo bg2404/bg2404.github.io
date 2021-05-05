@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>security on Bhasker Goel</title>
+    <link>https://bhaskergoel.netlify.app/categories/security/</link>
+    <description>Recent content in security on Bhasker Goel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bhaskergoel.netlify.app/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Election Portal</title>
+      <link>https://bhaskergoel.netlify.app/portfolio/election-portal/</link>
+      <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
+      
+      <guid>https://bhaskergoel.netlify.app/portfolio/election-portal/</guid>
+      <description>Project Requirements React, Django, Python, Cryptography
+Project Details Developed a Web Portal based relying on Django Framework for its backend to allow student candidates contesting for various Gymkhana Posts to campaign online and reach out to more students.</description>
+    </item>
+    
+  </channel>
+</rss>

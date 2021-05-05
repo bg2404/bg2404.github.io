@@ -1,0 +1,106 @@
+# default configuration
+baseURL = "https://www.bhaskergoel.com"
+languageCode = "en-us"
+summaryLength = "10"
+theme = "kross"
+publishDir = "docs"
+title = "Bhasker Goel"
+
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+
+# js plugin
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+
+# menu
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
+
+[[menu.main]]
+URL = "portfolio"
+name = "Portfolio"
+weight = 3
+
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 4
+
+
+# default parameters
+[params]
+home = "Home"
+logo = "images/favicon.png"
+# theme color
+theme_color = "#41228e"
+# contact info
+phone = "+91 8447202147"
+email = "bhasker2000goel@gmail.com"
+address = "House No 329, Basai Enclave, Gurgaon, Haryana"
+# meta description
+author = "Bhasker Goel"
+description = "Portfolio"
+# google analytics
+google_analytics_id = "" # Your ID
+# copyright
+copyright = "Copyright &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
+
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/preloader.gif" # use png, jpg, svg or gif format
+
+# contact
+[params.contact]
+enable = true
+form_action = "https://formspree.io/f/xayaqldo" # contact form works with : https://formspree.io/f/xayaqldo or https://formsubmit.co/bhasker2000goel@gmail.com
+
+# google map
+[params.map]
+enable = false
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
+map_latitude = "51.5223477"
+map_longitude = "-0.1622023"
+map_marker = "images/marker.png"
+
+# cookies
+[params.cookies]
+enable = true
+expire_days = 2
+
+# social site
+
+[[params.social]]
+icon = "ti-github"
+URL = "https://github.com/bg2404/"
+
+[[params.social]]
+icon = "ti-linkedin"
+URL = "https://www.linkedin.com/in/bhasker-goel/"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+URL = "https://twitter.com/bhasker_goel/"
+
+[[params.social]]
+icon = "ti-facebook"
+URL = "https://www.facebook.com/bhasker.goel.9/"
