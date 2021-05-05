@@ -3,7 +3,7 @@ baseURL = "https://www.bhaskergoel.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross"
-publishDir = "docs"
+publishdir = "docs"
 title = "Bhasker Goel"
 
 # css plugins
