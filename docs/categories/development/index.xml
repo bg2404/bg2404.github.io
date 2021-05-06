@@ -2,47 +2,47 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>development on Bhasker Goel</title>
-    <link>https://bhaskergoel.netlify.app/categories/development/</link>
+    <link>https://www.bhaskergoel.com/categories/development/</link>
     <description>Recent content in development on Bhasker Goel</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://bhaskergoel.netlify.app/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Feb 2021 12:14:34 +0600</lastBuildDate><atom:link href="https://www.bhaskergoel.com/categories/development/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Election Portal</title>
-      <link>https://bhaskergoel.netlify.app/portfolio/election-portal/</link>
+      <link>https://www.bhaskergoel.com/portfolio/election-portal/</link>
       <pubDate>Fri, 12 Feb 2021 12:14:34 +0600</pubDate>
       
-      <guid>https://bhaskergoel.netlify.app/portfolio/election-portal/</guid>
+      <guid>https://www.bhaskergoel.com/portfolio/election-portal/</guid>
       <description>Project Requirements React, Django, Python, Cryptography
 Project Details Developed a Web Portal based relying on Django Framework for its backend to allow student candidates contesting for various Gymkhana Posts to campaign online and reach out to more students.</description>
     </item>
     
     <item>
       <title>COVID Helper</title>
-      <link>https://bhaskergoel.netlify.app/portfolio/covid-helper/</link>
+      <link>https://www.bhaskergoel.com/portfolio/covid-helper/</link>
       <pubDate>Thu, 06 Aug 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://bhaskergoel.netlify.app/portfolio/covid-helper/</guid>
+      <guid>https://www.bhaskergoel.com/portfolio/covid-helper/</guid>
       <description>Project Requirements Django, Python, JQuery, PostgreGQL
 Project Details This was a project created by the Student Web Committee of IIT, Guwahati designed to help bridge the communication gap between the suppliers and the consumers during the COVID-19 lockdown in India.</description>
     </item>
     
     <item>
       <title>Pre Election Portal</title>
-      <link>https://bhaskergoel.netlify.app/portfolio/pre-election-portal/</link>
+      <link>https://www.bhaskergoel.com/portfolio/pre-election-portal/</link>
       <pubDate>Thu, 26 Mar 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://bhaskergoel.netlify.app/portfolio/pre-election-portal/</guid>
+      <guid>https://www.bhaskergoel.com/portfolio/pre-election-portal/</guid>
       <description>Project Requirements Django, Python, JQuery, PostgreGQL
 Project Details Many students do not know about all the candidates who are contesting for Students&#39; Gymkhana Committee elections before choosing their favourite candidate.</description>
     </item>
     
     <item>
       <title>Artwork Design</title>
-      <link>https://bhaskergoel.netlify.app/portfolio/campus-quora/</link>
+      <link>https://www.bhaskergoel.com/portfolio/campus-quora/</link>
       <pubDate>Fri, 17 Jan 2020 12:14:34 +0600</pubDate>
       
-      <guid>https://bhaskergoel.netlify.app/portfolio/campus-quora/</guid>
+      <guid>https://www.bhaskergoel.com/portfolio/campus-quora/</guid>
       <description>Project Requirements Java, Android, Firebase
 Project Details Coding Club took initiative to develop a discussion forum for Campus Residents.</description>
     </item>
