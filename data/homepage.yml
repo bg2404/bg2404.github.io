@@ -17,7 +17,7 @@ skill:
     title: "Skills"
     item:
         - title: "Ethereum Development "
-          progress: "20%"
+          progress: "50%"
           color: "#fdb157"
 
         - title: "Web Development"
